@@ -132,4 +132,4 @@ Use a notebook environment (Google Colab or Kaggle) with GPU acceleration enable
 
 If you use this code or build on it, please cite the corresponding thesis:
 
-> Fahim, Adalat Khan. *Retinal Vessel Segmentation and Diabetic Retinopathy Classification Using Vessel Graph Based U-Net Approach.* 2025.
+> Fahim, Adalat Khan. *Retinal Vessel Segmentation and Diabetic Retinopathy Classification Using Vessel Graph Based U-Net Approach.* Sichuan University,2025.
